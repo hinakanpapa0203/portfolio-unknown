@@ -44,6 +44,7 @@ address {
 .container {
     text-align: center;
     padding-top: 100px;
+    margin: 0 auto;
 }
 /*------ itemフェードイン処理 ------*/
 /* フェードイン前 */
@@ -304,6 +305,7 @@ address {
 #footer {
     padding: 0 100px;
     margin-bottom: 20px;
+    max-width: 1920px;
 }
 footer address {
     margin-bottom: 20px;
@@ -312,7 +314,7 @@ footer address {
 #footer .footer-menu {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;  
+    padding-bottom: 20px;  
 }
 /*---------- 左側 ----------*/
 #footer .footer-menu-left {
