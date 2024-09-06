@@ -303,8 +303,7 @@ address {
 --------------- footer ---------------
 ------------------------------------*/
 #footer {
-    padding: 0 100px;
-    margin-bottom: 20px;
+    padding: 0 100px 20px;
     max-width: 1920px;
 }
 footer address {
