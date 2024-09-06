@@ -44,7 +44,6 @@ address {
 .container {
     text-align: center;
     padding-top: 100px;
-    margin: 0 auto;
 }
 /*------ itemフェードイン処理 ------*/
 /* フェードイン前 */
@@ -304,6 +303,7 @@ address {
 ------------------------------------*/
 #footer {
     padding: 0 100px 20px;
+    margin: 0 auto;
     max-width: 1920px;
 }
 footer address {
